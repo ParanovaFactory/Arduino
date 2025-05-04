@@ -45,3 +45,16 @@ You can use these individually or combine them to build more complex systems lik
    ```bash
    git clone https://github.com/ParanovaFactory/Arduino.git
 
+---
+
+## 👤 Author
+
+**Sadık Berkay Karaduman**  
+📧 [karadumansadikberkay@gmail.com](mailto:karadumansadikberkay@gmail.com)  
+🔗 [GitHub – ParanovaFactory](https://github.com/ParanovaFactory)
+
+---
+
+## 📄 License
+
+MIT License — Feel free to use, modify, and contribute.
